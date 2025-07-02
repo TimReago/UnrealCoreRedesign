@@ -33,4 +33,6 @@ Epic's EULA requires that we keep Unreal Engine source code discussions private 
 
 Unreal Engine is copyright and trademark Epic Games, Inc. All rights reserved by Epic.
 
-UnrealCoreRedesign has a private sister repository for devs who have agreed to the Epic EULA, where we can work on the core redesign and discuss core coding topics.  You can request access to the private repository through the Discussion thread in this repository.  But, not yet sure how to validate that you agreed to the Epic EULA.
+UnrealCoreRedesign has a private sister repository for devs who have agreed to the Epic EULA, where we can work on the core redesign and discuss core coding topics.  You can request access to the private repository through the Discussion thread in this repository.
+
+Regarding validating that you agreed to the Epic EULA. Just guessing, it will be sufficient to validate that you accepted the Epic EULA by way of your membership listing on the Epic Games organization github repository.
