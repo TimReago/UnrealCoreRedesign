@@ -32,3 +32,5 @@ And so here we are.  Let's dig in.  We can do this.
 Epic's EULA requires that we keep Unreal Engine source code discussions private (beyond 30 lines of code) and otherwise between those of us who have agreed to the Epic EULA.
 
 Unreal Engine is copyright and trademark Epic Games, Inc. All rights reserved by Epic.
+
+UnrealCoreRedesign has a private sister repository for devs who have agreed to the Epic EULA, where we can work on the core redesign and discuss core coding topics.  You can request access to the private repository through the Discussion thread in this repository.  But, not yet sure how to validate that you agreed to the Epic EULA.
