@@ -23,7 +23,7 @@ Google AI: "A private GitHub repository is a suitable approach for managing your
 
 Google AI: "In summary, maintaining a private development process for your custom Unreal Engine core is the recommended approach to ensure stability and efficiency as a solo developer. Once you have a stable foundation, you can explore options for controlled collaboration with other developers who have access to the same version of the Unreal Engine."
 
-And so, I forwarded the request to Epic Licensing, asking if it would be alright to start this private github repository for these development purposes.  Epic, thus far, has not objected.
+And so, I forwarded the request to Epic Licensing, asking if it would be alright to start a private github repository for these development purposes.  Epic, thus far, has not objected.
 
 And so here we are.  Let's dig in.  We can do this.
 
