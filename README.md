@@ -26,3 +26,9 @@ Google AI: "In summary, maintaining a private development process for your custo
 And so, I forwarded the request to Epic Licensing, asking if it would be alright to start this private github repository for these development purposes.  Epic, thus far, has not objected.
 
 And so here we are.  Let's dig in.  We can do this.
+
+/* * *  Copyright and other legal notices  * * */
+
+Epic's EULA requires that we keep Unreal Engine source code discussions private (beyond 30 lines of code) and otherwise between those of us who have agreed to the Epic EULA.
+
+Unreal Engine is copyright and trademark Epic Games, Inc. All rights reserved by Epic.
