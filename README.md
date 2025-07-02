@@ -3,7 +3,7 @@ PURPOSE: Redesigning the Unreal Engine core systems to eliminate UHT and other n
 
 Unreal Engine is known for development instabilities.  Whereas, traditional C++ is a much more stable and proven development base.
 
-Google AI: "Many developers encounter challenges getting a stable and predictable setup, and it can feel like a constant battle against crashes, compiler errors, and other issues that disrupt workflow.".
+Google AI: "Many [Unreal Engine] developers encounter challenges getting a stable and predictable setup, and it can feel like a constant battle against crashes, compiler errors, and other issues that disrupt workflow.".
 
 Google AI: "One source estimated the UE 4.23.1 codebase at around 16 million lines of code, based on file size."
 
