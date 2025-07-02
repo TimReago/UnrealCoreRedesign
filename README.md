@@ -19,7 +19,7 @@ Google AI: "Creating a 'closed-source project' on GitHub to manage your modified
 
 Google AI: "Controlled Access: A private GitHub repository allows you to control who can access and contribute to your code base. You can grant access only to your collaborators who are also licensed to use the same version of Unreal Engine."
 
-Google AI: "A private GitHub repository is a suitable approach for managing your custom Unreal Engine core, but it's crucial to adhere to the EULA's restrictions on public distribution of the Engine Code. You can share your modified engine [source code only] with other licensed developers."
+Google AI: "A private GitHub repository is a suitable approach for managing your custom Unreal Engine core, but it's crucial to adhere to the EULA's restrictions on public distribution of the Engine Code. You can share your modified engine [source code] with other licensed developers."
 
 Google AI: "In summary, maintaining a private development process for your custom Unreal Engine core is the recommended approach to ensure stability and efficiency as a solo developer. Once you have a stable foundation, you can explore options for controlled collaboration with other developers who have access to the same version of the Unreal Engine."
 
