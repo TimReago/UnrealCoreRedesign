@@ -15,7 +15,9 @@ Because I had already jumped in to rebuilding the engine from startup and was ha
 
 Google AI: "While UE5's C++ code structure is based on standard conventions, its use of custom build tools, reflection, and engine-specific features makes it a highly specialized codebase. Reforming it to be purely standard C++ would be a massive undertaking that would require recreating many of the core features that make UE5 such a powerful engine."
 
-Google AI: "Creating a 'closed-source project' on GitHub to manage your modified Unreal Engine core is generally acceptable under Epic's Unreal Engine End User License Agreement (EULA), but with specific restrictions and considerations. ... Controlled Access: A private GitHub repository allows you to control who can access and contribute to your code base. You can grant access only to your collaborators who are also licensed to use the same version of Unreal Engine."
+Google AI: "Creating a 'closed-source project' on GitHub to manage your modified Unreal Engine core is generally acceptable under Epic's Unreal Engine End User License Agreement (EULA), but with specific restrictions and considerations."
+
+Google AI: "Controlled Access: A private GitHub repository allows you to control who can access and contribute to your code base. You can grant access only to your collaborators who are also licensed to use the same version of Unreal Engine."
 
 Google AI: "A private GitHub repository is a suitable approach for managing your custom Unreal Engine core, but it's crucial to adhere to the EULA's restrictions on public distribution of the Engine Code. You can share your modified engine [source code only] with other licensed developers."
 
