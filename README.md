@@ -1,5 +1,5 @@
 # UnrealCoreRedesign
-PURPOSE: Redesigning the Unreal Engine core systems to eliminate UHT and other non-standard C++ features - with focus on stabilizing the build environement for small dev teams.
+PURPOSE: Redesigning the Unreal Engine core systems to eliminate UHT and other non-standard C++ features - with focus on stabilizing the build environment for small dev teams.
 
 Unreal Engine is known for development instabilities.  Whereas, traditional C++ is a much more stable and proven development base.
 
